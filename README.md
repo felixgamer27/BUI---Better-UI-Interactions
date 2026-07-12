@@ -15,3 +15,15 @@ BUI its an action block with input variables that allow you to controll everythi
 
 ## Wait until finished
 When the "Wait until finished" checkbox is checked, the action block will keep trying to click forever until the button apears and it clicks it, this is really usefull for touch macros
+
+# Downloads
+You can download BUI on github, all versions are in the [versions folder](https://github.com/felixgamer27/BUI---Better-UI-Interactions/blob/main/Versions/) (if you just want a link to the latest version, click [here](https://github.com/felixgamer27/BUI---Better-UI-Interactions/blob/main/Versions/1.0/Bui_-_Better_Ui_interaction_1.0.ablock).
+BUI is also available on the BMM repository, just download it by running the following command on the macrodroid terminal
+  
+  bmm install bui
+  
+or
+
+  bmm -s bui
+
+BUI is also on some of my macros (BMI, BDND and BNM) so if you have one of them installed you should have the block
