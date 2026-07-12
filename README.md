@@ -20,10 +20,10 @@ When the "Wait until finished" checkbox is checked, the action block will keep t
 You can download BUI on github, all versions are in the [versions folder](https://github.com/felixgamer27/BUI---Better-UI-Interactions/blob/main/Versions/) (if you just want a link to the latest version, click [here](https://github.com/felixgamer27/BUI---Better-UI-Interactions/blob/main/Versions/1.0/Bui_-_Better_Ui_interaction_1.0.ablock)).
 BUI is also available on the BMM repository, just download it by running the following command on the macrodroid terminal
   
-  bmm install bui
+    bmm install bui
   
 or
-
-  bmm -s bui
-
+  
+    bmm -s bui
+  
 BUI is also on some of my macros (BMI, BDND and BNM) so if you have one of them installed you should have the block
